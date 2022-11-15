@@ -1,4 +1,4 @@
-# DSC-550_Data-Mining
+#Data-Mining
 
 
 A goal of data mining is to explain some observed event or condition. Data mining is the computational process of discovering patterns in large data sets involving methods at the intersection of artificial intelligence, machine learning, statistics, and database systems.
